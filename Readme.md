@@ -123,11 +123,11 @@
 
   把上面的例子复制
 
-  ![image-20220721160107627](../../AppData/Roaming/Typora/typora-user-images/image-20220721160107627.png)
+  ![image-20220721160107627](./Readme-Fig/image-20220721160107627.png)
 
   点击这个设置，设置到 `80px`，改完后直接下载
 
-  ![image-20220721160306398](../../AppData/Roaming/Typora/typora-user-images/image-20220721160306398.png)
+  ![image-20220721160306398](./Readme-Fig/image-20220721160306398.png)
 
   
 
