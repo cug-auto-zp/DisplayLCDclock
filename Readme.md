@@ -18,7 +18,7 @@
 - 本人复刻过程
   - step1: 将==esp32-s2==代码转化可以烧录到合宙板子的代码，再用==合宙esp32-c3（旧版）+LCD屏==测试了一下程序，成功后就开始step2 设计PCB
   
-    <video src="Readme-Fig/%E6%B5%8B%E8%AF%95.mp4"></video>
+    <video src="Readme-Fig/1.mp4"></video>
   
   - step2: 根据原理图重新设计并绘制PCB（ `主控` 和 `按键` 换了）
   
@@ -38,7 +38,7 @@
 
 官方手册链接：[ESP32C3-CORE开发板 - LuatOS 文档](https://wiki.luatos.com/chips/esp32c3/board.html)
 
-![合宙esp32-c3](Readme-Fig/%E5%90%88%E5%AE%99esp32-c3.png)
+![合宙esp32-c3](Readme-Fig/合宙esp32-c3.png)
 
 其中使用AD20绘制了两个硬件
 
@@ -123,11 +123,11 @@
 
   把上面的例子复制
 
-  ![image-20220721160107627](./Readme-Fig/image-20220721160107627.png)
+  ![](Readme-Fig/image-20220721160107627.png)
 
   点击这个设置，设置到 `80px`，改完后直接下载
 
-  ![image-20220721160306398](./Readme-Fig/image-20220721160306398.png)
+  ![](Readme-Fig/image-20220721160306398.png)
 
   
 
